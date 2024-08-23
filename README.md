@@ -1,6 +1,5 @@
 # fake-news-detection
 
-Creating a comprehensive Python project for fake news detection using LSTM networks involves several key steps, including data preprocessing, feature engineering, model building, and evaluation. Below is a structured approach to the project, including the implementation of polynomial feature engineering, distributed computing with Apache Spark, transfer learning with BERT/GloVe, and an LSTM network for classification.
 
 ### **1. Set Up Apache Spark**
 
