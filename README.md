@@ -174,7 +174,7 @@ cv_model = crossval.fit(train_spark_df)
 
 ### **10. Attention Mechanism (in LSTM Network)**
 
-If you wish to include an attention mechanism within the LSTM model, you can implement it as follows:
+
 
 ```python
 from keras.layers import Layer
